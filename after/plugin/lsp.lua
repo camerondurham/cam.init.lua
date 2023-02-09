@@ -7,6 +7,7 @@ lsp.ensure_installed({
   'sumneko_lua',
   'rust_analyzer',
   'eslint',
+  'golang',
 })
 
 -- Fix Undefined global 'vim'
